@@ -1,0 +1,4 @@
+git checkout -b semana santa
+git add <exp.jpg>
+git commit subida semana santa
+git push origin semana santa
